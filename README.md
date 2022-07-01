@@ -2,3 +2,4 @@
 This is basic repo for OJ_project
 Key notes about project :-
 we use sandboxiing for security purposes
+Today we reate superuser and basic apis
