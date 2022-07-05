@@ -13,3 +13,6 @@ django-admin startproject new_pro .
 pyhton manage.py startapp backend_core
 python managepy migrate
 pip install django-environ
+after instaaling django we create project
+django-admin create project
+then we create an app 
