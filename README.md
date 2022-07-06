@@ -17,3 +17,5 @@ after instaaling django we create project
 django-admin create project
 then we create an app 
 Adding questions and create apito fetch them
+Creating simple ui design to visualise
+The database
