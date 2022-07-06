@@ -16,3 +16,4 @@ pip install django-environ
 after instaaling django we create project
 django-admin create project
 then we create an app 
+Adding questions and create apito fetch them
