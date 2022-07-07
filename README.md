@@ -19,3 +19,6 @@ then we create an app
 Adding questions and create apito fetch them
 Creating simple ui design to visualise
 The database
+
+
+creating a sample project for beginners
