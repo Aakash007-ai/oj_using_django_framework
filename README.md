@@ -23,4 +23,6 @@ The database
 
 creating a sample project for beginners
 more work to do on oj
-Creating ui design for code submission and problem description 
+Creating ui design for code submission and problem description
+Creating template ,then view ,then setting urls
+ 
